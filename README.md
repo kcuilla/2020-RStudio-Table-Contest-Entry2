@@ -14,3 +14,7 @@ Interactive data visualization displaying the NFL team ratings and playoff odds 
 
 Full table screenshot:
 ![](FullTable.png)
+
+
+Sorted by Division:
+![](SortedByDivision.png)
