@@ -7,3 +7,5 @@ Interactive data visualization displaying the NFL team ratings and playoff odds 
 - Interactive plot built using the `plotly` package 
 - Interactive table built using the `reactable` package
 - Plot and table interact with each other through the `crosstalk` package
+
+![](tabledemo.gif)
