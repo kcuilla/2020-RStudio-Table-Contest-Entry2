@@ -2,7 +2,7 @@
 
 2020 NFL Team Ratings & Playoff Odds:  https://rpubs.com/kcuilla/668637
 
-Description: Interactive data visualization displaying the NFL team ratings and playoff odds from the 2020 season. Data is sourced from Pro-Football-Reference.com and FiveThirtyEight.com
+Interactive data visualization displaying the NFL team ratings and playoff odds from the 2020 season. Data is sourced from Pro-Football-Reference.com and FiveThirtyEight.com
 
 - Interactive plot built using the `plotly` package 
 - Interactive table built using the `reactable` package
