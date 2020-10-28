@@ -1,6 +1,6 @@
-# 2020-RStudio-Table-Contest-Entry2
+# 2020 NFL Team Ratings & Playoff Odds
 
-2020 NFL Team Ratings & Playoff Odds:  https://rpubs.com/kcuilla/nfl_team_ratings_2020
+Link:  https://rpubs.com/kcuilla/nfl_team_ratings_2020
 
 Interactive data visualization displaying the NFL team ratings and playoff odds from the 2020 season. 
 
