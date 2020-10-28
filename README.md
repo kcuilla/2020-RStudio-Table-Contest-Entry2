@@ -10,13 +10,13 @@ Data is sourced from Pro-Football-Reference.com and FiveThirtyEight.com, and pul
 - Interactive table built using the `reactable` package
 - Plot and table interact with each other through the `crosstalk` package
 
-**Interactive Demo:**
+## Interactive Demo
 ![](interactivetabledemo.gif)
 
 
-**Full table screenshot:**
+## Full table
 ![](nflteamratings_fulltable.png)
 
 
-**Sorted by Division:**
+## Full table sorted by Division
 ![](nflteamratings_fulltable2.png)
