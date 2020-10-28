@@ -13,10 +13,10 @@ Data is sourced from Pro-Football-Reference.com and FiveThirtyEight.com, and pul
 
 ![](interactivetabledemo.gif)
 
-
-Full table screenshot:
+<br />
+**Full table screenshot:**
 ![](nflteamratings_fulltable.png)
 
-
-Sorted by Division:
+<br />
+**Sorted by Division:**
 ![](SortedByDivision.png)
