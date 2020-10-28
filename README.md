@@ -11,7 +11,7 @@ Data is sourced from Pro-Football-Reference.com and FiveThirtyEight.com, and pul
 - Plot and table interact with each other through the `crosstalk` package
 
 
-![](tabledemo.gif)
+![](interactivetabledemo.gif)
 
 
 Full table screenshot:
