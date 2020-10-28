@@ -15,7 +15,7 @@ Data is sourced from Pro-Football-Reference.com and FiveThirtyEight.com, and pul
 
 
 Full table screenshot:
-![](FullTable.png)
+![](nflteamratings_fulltable.png)
 
 
 Sorted by Division:
