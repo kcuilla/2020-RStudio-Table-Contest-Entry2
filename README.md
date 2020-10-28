@@ -10,7 +10,7 @@ Data is sourced from Pro-Football-Reference.com and FiveThirtyEight.com, and pul
 - Interactive table built using the `reactable` package
 - Plot and table interact with each other through the `crosstalk` package
 
-
+**Interactive Demo:**
 ![](interactivetabledemo.gif)
 
 
