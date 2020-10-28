@@ -19,4 +19,4 @@ Data is sourced from Pro-Football-Reference.com and FiveThirtyEight.com, and pul
 
 
 **Sorted by Division:**
-![](SortedByDivision.png)
+![](nflteamratings_fulltable2.png)
