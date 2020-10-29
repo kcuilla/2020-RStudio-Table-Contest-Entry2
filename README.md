@@ -10,13 +10,19 @@ Data is sourced from Pro-Football-Reference.com and FiveThirtyEight.com, and pul
 - Interactive table built using the `reactable` package
 - Plot and table interact with each other through the `crosstalk` package
 
-## Interactive Demo
+## Column Definitions
+
+- SRS (Simple Rating System) is a rating based on point differential and strength of schedule. An SRS rating of 0.0 is average.
+- SoS (Strength of Schedule) is the combined winning pct of the teams that each team played. For this table, I converted this into icons following the ski trail difficulty rating system to represent easy, moderate, difficult, and very difficult schedules
+- MoV is the average margin of victory for each game the team played
+
+# Interactive Demo
 ![](interactivetabledemo.gif)
 
 
-## Full table
+# Full table
 ![](nflteamratings_fulltable.png)
 
 
-## Full table sorted by Division
+# Full table sorted by Division
 ![](nflteamratings_fulltable2.png)
