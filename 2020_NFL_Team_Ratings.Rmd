@@ -3,6 +3,9 @@ title: '2020 NFL Team Ratings & Playoff Odds'
 output: html_document
 ---
 
+### Note: The data for this was originally pulled in October 2020 and is showing as of October 2020 in the examples in the README.
+### The playoff odds from 538 are no longer available, so in order to re-run the code, one must remove the web scraping from 538 beginning on line 46.
+
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(warning = FALSE, message = FALSE, echo = FALSE)
 library(rvest)
